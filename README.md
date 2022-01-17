@@ -25,6 +25,6 @@ Story: As a gamer i want to buy the playstation5 so i can play latest games.
 8. User confirms age and taps on to "prceed to checkout".
 9. User taps "place your order".
 10. User fills the information.
-11. User is redirected to page "order has been successfully placed.
+11. User is redirected to page "order has been successfully placed".
 
 
