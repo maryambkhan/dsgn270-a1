@@ -1,9 +1,9 @@
 # dsgn270-a1
-**## Wallmart Agile UX Breakdown**
+**Wallmart Agile UX Breakdown**
 
 Walmart has almost everything from grocery to cloths.
 
-**## User Stories**
+**User Stories**
 
 * As a parent i want to buy a bicycle so that i can teach my child how to ride bicycle. 
 
@@ -11,7 +11,7 @@ Walmart has almost everything from grocery to cloths.
 
 * As a gamer i want to buy playstation5 so i can play the latest games.
 
-**## Userflow**
+**Userflow**
 
 Story: As a gamer i want to buy the playstation5 so i can play latest games.
 
