@@ -7,7 +7,7 @@ Walmart has almost everything from grocery to cloths.
 
 * As a parent i want to buy a bicycle so that i can teach my child how to ride bicycle. 
 
-* As a student i want to buy notebook so i can write my notes.
+* As a customer i want to cancel my order so i can get refund.
 
 * As a gamer i want to buy playstation5 so i can play the latest games.
 
