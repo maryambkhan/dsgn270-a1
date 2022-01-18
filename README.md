@@ -5,7 +5,7 @@ Walmart has almost everything from grocery to cloths.
 
 **User Stories**
 
-* As a parent i want to buy a bicycle so that my child can get some exercise.
+* As a parent i want to buy a bicycle so that i can teach my child how to ride bicycle. 
 
 * As a student i want to buy notebook so i can write my notes.
 
