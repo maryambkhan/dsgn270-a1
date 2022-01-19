@@ -28,4 +28,8 @@ Story: As a gamer i want to buy the playstation5 so i can play latest games.
 10. User  redirects to signin or checkout as guest.
 11. User is redirected to page "order has been successfully placed".
 
+# **WireFrame**
+
+![wire_frame](images/wireframe.png)
+
 
